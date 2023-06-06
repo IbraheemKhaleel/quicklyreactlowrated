@@ -10,6 +10,14 @@
       "StackName": "amplify-casequickly-dev-190611",
       "StackId": "arn:aws:cloudformation:us-east-1:897395506127:stack/amplify-casequickly-dev-190611/1c4048c0-046f-11ee-9af5-126065c56de9",
       "AmplifyAppId": "d3egazzhya5rvf"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3egazzhya5rvf",
+          "type": "manual"
+        }
+      }
     }
   }
 }
